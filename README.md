@@ -1,6 +1,6 @@
 # LinkedList in CPP
 
-  This repository had implementation of various ops/algos on a singly linked list written in C++.
+  This repository has implementation of various ops/algos on a singly linked list written in C++.
   
   The program(s) includes:
     
